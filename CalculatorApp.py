@@ -1,4 +1,4 @@
-```python
+python
 # streamlit_calculator.py
 # Simple Calculator Streamlit app (single-file). Drop this on GitHub and deploy to
 # https://share.streamlit.io/<username>/<repo>/main/streamlit_calculator.py
